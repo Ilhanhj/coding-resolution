@@ -1,4 +1,4 @@
 1. Learn about REACT JS
 2. Make project using REACT JS
 3. Finish the class project
-4. Put my project on WPU-PROJECT-SHOWCASE
+4. More consistent in learning coding
