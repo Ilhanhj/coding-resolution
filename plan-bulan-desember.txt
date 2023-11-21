@@ -2,4 +2,9 @@ Plan project bulan desember
   * Wedding Invitation Website
   * Food Company Website
   * Architecture Personal Portofolio
+
+Development Process
+ * Looking for Inspo in (Behance,Dribbble,Pinterest,SaveIt etc)
+ * Design in Figma
+ * Code using React JS
  
