@@ -4,6 +4,7 @@ Plan project bulan desember
   * Architecture Personal Portofolio
 
 Developing Process
+ * Looking for Inspo in (Behance,Dribbble,Pinterest,SaveIt etc)
  * Wireframing
  * Designing in Figma
  * Code using tailwindcss
