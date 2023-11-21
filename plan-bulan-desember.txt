@@ -3,8 +3,8 @@ Plan project bulan desember
   * Food Company Website
   * Architecture Personal Portofolio
 
-Development Process
+Developing Process
  * Looking for Inspo in (Behance,Dribbble,Pinterest,SaveIt etc)
- * Design in Figma
- * Code using React JS
- 
+ * Wireframing
+ * Designing in Figma
+ * Code using tailwindcss
