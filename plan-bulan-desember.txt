@@ -2,4 +2,8 @@ Plan project bulan desember
   * Wedding Invitation Website
   * Food Company Website
   * Architecture Personal Portofolio
- 
+
+Developing Process
+ * Wireframing
+ * Designing in Figma
+ * Code using tailwindcss
